@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4S4GUS+ZK2s=",
+  "success": true,
+  "projectFilePath": "G:\\IE\\AppMatematicaFinanciera\\AppMatematicaFinanciera.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\winforms.datavisualization\\1.9.2\\winforms.datavisualization.1.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}
