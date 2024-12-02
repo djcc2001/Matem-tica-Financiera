@@ -52,10 +52,10 @@
 
 <h2>👥 Integrantes</h2>
 <ul>
-    <li>Integrante 1 - <em>Rol</em></li>
-    <li>Integrante 2 - <em>Rol</em></li>
-    <li>Integrante 3 - <em>Rol</em></li>
-    <!-- Agregar más integrantes según corresponda -->
+    <li>Brayan Rodrigo Quispe Castillo</li>
+    <li>Denis Jair Cancinas Cardenas</li>
+    <li>Hernan Washington Ramos Alata</li>
+    <li>Oscar David Barrientos Huillca</li>
 </ul>
 
 <h2>📬 Contacto</h2>
